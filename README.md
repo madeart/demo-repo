@@ -10,9 +10,7 @@
 ## Ceci est un texte en _italic_
 ## Ceci est un texte en ~~barre~~
 
-Ceci est la liste des couleur utilisee dans le projet :
-* `#ffffff`
-+ `#000000`
+Ceci est la liste des couleur utilisee dans le projet  `#ffffff` , `#000000`
 
 Somme description
 
