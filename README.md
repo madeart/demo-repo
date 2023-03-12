@@ -11,8 +11,8 @@
 ## Ceci est un texte en ~~barre~~
 
 Ceci est la liste des couleur utilisee dans le projet :
-* `#f2f9ed`
-+ `#c9b9ed`
+* `#ffffff`
++ `#000000`
 
 Somme description
 
